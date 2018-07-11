@@ -15,6 +15,7 @@ public class BalanceShowUtil {
 
     /**
      * 返回格式化法定货币,保留三位小数，向下取整
+     *
      * @param balance
      * @return
      */
@@ -25,6 +26,7 @@ public class BalanceShowUtil {
 
     /**
      * 返回格式化法定货币，保留3位小数，向下取整
+     *
      * @param balance
      * @return
      */
